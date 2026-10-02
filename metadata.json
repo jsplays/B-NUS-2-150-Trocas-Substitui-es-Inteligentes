@@ -1,0 +1,6 @@
+{
+  "name": "Substituições Inteligentes - 150 Trocas Práticas",
+  "description": "Mini App Mobile com 150 substituições inteligentes para adaptar seu cardápio mantendo a rotina, o orçamento e suas preferências.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
